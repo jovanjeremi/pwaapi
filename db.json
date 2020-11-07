@@ -1,0 +1,23 @@
+# pwaapi
+{ "products:"[
+{"id":1,"name":"Bleu, red-cheeked cordon","category":"Violet"},
+{"id":2,"name":"Common pheasant","category":"Maroon"},
+{"id":3,"name":"Barrows goldeneye","category":"Maroon"},
+{"id":4,"name":"Wild turkey","category":"Aquamarine"},
+{"id":5,"name":"Fox, crab-eating","category":"Violet"},
+{"id":6,"name":"Yellow-brown sungazer","category":"Indigo"},
+{"id":7,"name":"Tsessebe","category":"Puce"},
+{"id":8,"name":"Tortoise, burmese brown mountain","category":"Puce"},
+{"id":9,"name":"Prehensile-tailed porcupine","category":"Purple"},
+{"id":10,"name":"African ground squirrel (unidentified)","category":"Maroon"},
+{"id":11,"name":"Mexican wolf","category":"Blue"},
+{"id":12,"name":"Purple grenadier","category":"Puce"},
+{"id":13,"name":"Great egret","category":"Pink"},
+{"id":14,"name":"Dog, bush","category":"Khaki"},
+{"id":15,"name":"Porcupine, tree","category":"Crimson"},
+{"id":16,"name":"Rhesus monkey","category":"Aquamarine"},
+{"id":17,"name":"Bee-eater (unidentified)","category":"Orange"},
+{"id":18,"name":"Porcupine, indian","category":"Purple"},
+{"id":19,"name":"Long-finned pilot whale","category":"Blue"},
+{"id":20,"name":"Fox, north american red","category":"Turquoise"}]
+}
